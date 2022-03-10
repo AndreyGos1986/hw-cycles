@@ -38,10 +38,6 @@ public class Main {
         for (int i = 0; i < yearAfter; i = i + 79) {      // немного изменено
             if (i > yearBefore && i < yearAfter) {  // немного изменено
                 System.out.println(i);
-            } else if (i > yearBefore && i < yearAfter) {  // добавлено
-                System.out.println(i);
-            } else if (i > yearBefore && i < yearAfter) { // добавлено
-                System.out.println(i);
             }
 
         }
